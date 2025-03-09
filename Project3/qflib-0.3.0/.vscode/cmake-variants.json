@@ -1,0 +1,18 @@
+{
+    "buildType": {
+        "default": "debug",
+        "description": "CMAKE_BUILD_TYPE",
+        "choices": {
+            "debug": {
+                "short": "Debug",
+                "long": "Debug Build Type",
+                "buildType": "Debug"
+            },
+            "release": {
+                "short": "Release",
+                "long": "Release Build Type",
+                "buildType": "Release"
+            }
+        }    
+    }
+}

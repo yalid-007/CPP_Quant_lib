@@ -1,0 +1,17 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "cmake.generator": "Ninja",
+    "cmake.buildDirectory": "${workspaceFolder}/build/cmake-ninja-${buildType}",
+    "files.associations": {
+        "exception": "cpp",
+        "cstdlib": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    },
+    "terminal.integrated.automationProfile.windows": {}
+}
