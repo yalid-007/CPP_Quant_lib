@@ -120,8 +120,7 @@ All contributions should include:
 
 ---
 
-## **License**  
-## License  
+## **License**   
 This project is intended for **academic and research purposes** only. All rights reserved to the developer and Fordham University. Please do not use for commercial purposes without permission.
 
 ---
